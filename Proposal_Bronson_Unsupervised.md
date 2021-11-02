@@ -14,7 +14,7 @@ My client has two questions and these are as follows:
 
 ## Data Description:
 
-The dataset contains 1544 records, each one containing a written review of the album, with 1491 out of the 1544 reviews containing a numerical rating from 1-5, with 1 being the lowest score, and 5 being a perfect score. This dataset was acquired from Kaggle and it is a dataset that was scraped from users of rateyourmusic.com](https://rateyourmusic.com/), a site where users can provide reviews and ratings for albums. The reviews average roughly 138 words each. It appears the majority of the reviews are in English, however, there appear to be reviews in several other languages as well.
+The dataset contains 1544 records, each one containing a written review of the album, with 1491 out of the 1544 reviews containing a numerical rating from 1-5, with 1 being the lowest score, and 5 being a perfect score. This dataset was acquired from Kaggle and it is a dataset that was scraped from users of [rateyourmusic.com](https://rateyourmusic.com/), a site where users can provide reviews and ratings for albums. The reviews average roughly 138 words each. It appears the majority of the reviews are in English, however, there appear to be reviews in several other languages as well.
 
 ## Tools: 
 
