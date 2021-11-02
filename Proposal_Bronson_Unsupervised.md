@@ -4,7 +4,7 @@ By Nicholas Bronson
 
 ## Question/Need:
 
-My client is a record label that is looking to use Natural Language Processing in the analysis of album (LP), EP, and single record reviews for both artists on their label, and their peers. They believe that understanding listeners’ feelings and reviews can assist them in refining the music of the artists on their labels. They wish to assist the artists on their label in highlighting and capitalizing on what are perceived as areas of strength and improving areas of weakness in their upcoming releases. 
+My client is a record label that is seeking to use Natural Language Processing in the analysis of album (LP), EP, and single record reviews for both artists on their label, and their peers. They believe that understanding listeners’ feelings and reviews can assist them in refining the music of the artists on their labels. They wish to assist the artists on their label in highlighting and capitalizing on what are perceived as areas of strength and improving areas of weakness in their upcoming releases. 
 
 My client wishes to see a proof of concept prior to committing to a longer-term project. For this initial project, they are looking to see how NLP can be used to analyze sentiments for what is widely regarded as a classic album, Pink Floyd’s Dark Side of the Moon. They have provided a dataset that contains a number of reviews of the album along with ratings for the majority of these reviews. 
 
@@ -23,4 +23,4 @@ For these analyses, I plan to use python including various libraries including P
 
 ## MVP Goal: 
 
-The minimum viable product for this project is an initial analysis of the major themes present in the reviews for the selected album. This will be created through topic modeling and will provide an overview of primary topics in the reviews. Additionally, I will provide an overview of the breakdown of the number and percentage of positive and negative reviews, as well as terms associated with positive and negative reviews. 
+The minimum viable product for this project is an initial analysis of the major themes present in the reviews for the selected album. This will be created through topic modeling and will provide an overview of primary topics addressed in the reviews. Additionally, I will provide an overview of the breakdown of the number and percentage of positive and negative reviews, as well as terms associated with positive and negative reviews. 
