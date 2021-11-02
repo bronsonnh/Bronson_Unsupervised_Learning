@@ -18,7 +18,7 @@ The dataset contains 1544 records, each one containing a written review of the a
 
 ## Tools: 
 
-For these analyses, I plan to use python including various libraries including Pandas, NumPy, Scikit-learn, NLTK, spaCy, matplotlib, and seaborn. I may include additional libraries or tools depending on the outcomes of initial exploration and analysis.
+For these analyses, I plan to use python including various libraries including Pandas, NumPy, Scikit-learn, NLTK, spaCy, Matplotlib, and Seaborn. I may include additional libraries or tools depending on the outcomes of initial exploration and analysis.
 
 ## MVP Goal: 
 
