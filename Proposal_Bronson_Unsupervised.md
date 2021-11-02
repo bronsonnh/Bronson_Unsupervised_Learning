@@ -10,7 +10,7 @@ My client wishes to see a proof of concept prior to committing to a longer-term 
 
 My client has two questions and these are as follows:
 
-1)How can NLP be used to analyze listener sentiments from written reviews of music both qualitatively and quantitatively? 
+1) How can NLP be used to analyze listener sentiments from written reviews of music both qualitatively and quantitatively? 
 2) What are listener sentiments on Pink Floyd’s Dark Side of the Moon, what are the perceived strengths and weaknesses of the album?  
 
 ## Data Description:
