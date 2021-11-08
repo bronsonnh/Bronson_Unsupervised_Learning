@@ -2,7 +2,7 @@
 
 By Nicholas Bronson
 
-In initial investigation of the provided reviews, I was able to tokenize the words in the reviews and break the reviews down into 10 topics by use of Latent Dirichlet allocation. Please see below:
+In initial investigation of the provided reviews, I was able to tokenize the words in the reviews and break the reviews down into 10 topics through topic modeling. The graphs below uses t-SNE and was graphed using pyLDAvis:
 
 ![Topic_1](https://github.com/bronsonnh/Bronson_Unsupervised_Learning/blob/main/LDA_topic_1.png)
 
