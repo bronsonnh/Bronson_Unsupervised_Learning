@@ -4,6 +4,9 @@ By Nicholas Bronson
 
 In initial investigation of the provided reviews I was able to tokenize the words in the reviews and break the reviews down into 10 topics by use of Latent Dirichlet allocation. Please see below:
 
+![Topic_1](https://github.com/bronsonnh/Bronson_Unsupervised_Learning/blob/main/LDA_topic_1.png)
+
+![Topic_3](https://github.com/bronsonnh/Bronson_Unsupervised_Learning/blob/main/LDA_topic_3.png)
 
 
 Topic one appears to contain positive reviews judging by the high number of occurances of the word "great." On the other hand, topic 3 contains a number of reviews with the word "bad," which shows that that topic may contain negative reviews. 
