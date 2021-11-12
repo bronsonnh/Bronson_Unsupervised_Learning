@@ -11,7 +11,7 @@ To conduct this analysis review data was tokenized, and analyzed using several u
 
 ## Data:
 
-The data is a 1547 row dataset scraped from rateyourmusic.com on October 15th, 2021 that I acquired from Kaggle. The reviews contain an average of 138 words each. Out of these reviews, 1494 have a rating associated with the review. The average rating, out of 5 points, is 4.4 across reviews. 
+The data is a 1547 row dataset scraped from [rateyourmusic.com](rateyourmusic.com) on October 15th, 2021 that I acquired from Kaggle. The reviews contain an average of 138 words each. Out of these reviews, 1494 have a rating associated with the review. The average rating, out of 5 points, is 4.4 across reviews. 
 
 ## Algorithms:
 
