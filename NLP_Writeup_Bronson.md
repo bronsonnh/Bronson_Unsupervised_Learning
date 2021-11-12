@@ -1,6 +1,5 @@
 
-# Decoding Album Reviews for Pink Floyd’s Dark Side of the Moon:
-Sentiment Analysis using NLP
+# Decoding Album Reviews for Pink Floyd’s Dark Side of the Moon: Sentiment Analysis using NLP
 
 By Nicholas Bronson
 
