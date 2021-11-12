@@ -28,10 +28,7 @@ These groupings provide insight into overall reviewer sentiments of the strength
 F
 ollowing the use of unsupervised learning, several supervised learning methods were used to analyze ratings that accompanied reviews. Reviews were broken down into the category “Positive” if their rating was 3 or greater, with reviews lower than 3 being classified as “Negative.” All of the models used had difficulty predicting true negatives but did a relatively good job at predicting actual positives, this was most likely due to the unbalanced nature of the data. A random forest model produced the best ability to capture true negatives as well as true positives, with scores as follows:
 
-Accuracy: 0.904
-Recall: 0.975
-Precision: 0.923
-F1: 0.948
+Accuracy: 0.904 ,Recall: 0.975, Precision: 0.923, F1: 0.948
 
 ## Tools:
 
