@@ -9,6 +9,10 @@ This project seeks to assist my client, a record label, in analyzing music revie
 
 To conduct this analysis review data was tokenized, and analyzed using several unsupervised learning methods to understand topics and broad-strokes information about reviewer sentiments. Following this, classification modeling was conducted in order to construct a model that can identify whether reviews are positive or negative given the language and topics present in the data. 
 
+## Design: 
+
+The goal of this project is to use unsupervised learning to uncover inisghts about album reviews. This is done using NLP, and it is carried out on Pink Floyd's classic album Dark Side of the Moon, the 6th best selling album of all time by total certified copies sold. Finding trends and topics within the language used in the reviews is the first phase of the project, subsequently, supervised learning is used to create a model that can predict weather reviews are negative or postivie from the language alone. This model is useful for identifying sentimients for unlabeled reviews. 
+
 ## Data:
 
 The data is a 1547 row dataset scraped from [rateyourmusic.com](rateyourmusic.com) on October 15th, 2021 that I acquired from Kaggle. The reviews contain an average of 138 words each. Out of these reviews, 1494 have a rating associated with the review. The average rating, out of 5 points, is 4.4 across reviews. 
